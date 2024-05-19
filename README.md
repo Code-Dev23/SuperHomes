@@ -7,4 +7,7 @@
 - Admin Commands (/adminhome <visit/delete> <player> <home>)
 - Common Commands (/home <create/delete/list> <home>)
 
+### 🔮Next Updates:
+- Home GUI
+
 ## 💡If you have suggestions write to me on discord, tag: scoppedd
