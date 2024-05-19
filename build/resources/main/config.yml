@@ -1,0 +1,6 @@
+mongodb:
+  uri: "uri"
+  database: "db"
+  collection: "homes"
+
+default_max_homes: 2

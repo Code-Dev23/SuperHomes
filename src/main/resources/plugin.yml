@@ -1,0 +1,6 @@
+name: SuperHomes
+version: '${version}'
+main: it.scopped.superhomes.SuperHomes
+api-version: '1.20'
+commands:
+  home:
